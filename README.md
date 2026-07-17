@@ -144,7 +144,7 @@ Some became serious products. Some were abandoned. Some taught me more through t
 ## Recent activity
 
 <!--START_SECTION:activity-->
-The automatic activity feed will appear here after the included workflow runs.
+1. 🎉 Merged PR [#12](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend/pull/12) in [Dipesh600/Shuvmarg-bus-booking-platform-backend](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend)
 <!--END_SECTION:activity-->
 
 ## Right now

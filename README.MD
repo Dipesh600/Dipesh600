@@ -1,157 +1,153 @@
-<div align="center">
+<p align="center">
+  <img src="https://socialify.git.ci/Dipesh600/Dipesh600/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Dipesh600" width="700" height="300" />
+</p>
 
-![Dipesh Chaudhary — Founder, engineer, still becoming](assets/hero.svg)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Founder+building+Shuvmarg;Engineer+exploring+AI+and+real-world+systems;From+Haripur%2C+Nepal+%E2%86%92+wherever+the+problem+leads;Forty+repositories.+Still+curious." alt="Typing introduction" />
+  </a>
+</p>
 
-<a href="https://github.com/Dipesh600?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_LAB-13283F?style=for-the-badge&logo=github&logoColor=F4D6A4" alt="Repositories"/></a>
-<a href="mailto:dipesh@shuvmarg.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-E9793E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <a href="mailto:dipesh@shuvmarg.com"><img src="https://img.shields.io/badge/Email-dipesh%40shuvmarg.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Dipesh600?tab=repositories"><img src="https://img.shields.io/badge/Repositories-40-238636?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dipesh600&style=flat-square&color=8957e5&label=Profile+views" alt="Profile views" />
+</p>
 
-</div>
+---
 
-<br>
+## Hello, I am Dipesh 👋
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### I build because some problems refuse to leave me alone.
-
-I began by making whatever sparked my curiosity. Forty repositories later, I am learning to build fewer things with more conviction.
-
-Today, I am building **Shuvmarg** after experiencing a simple but revealing problem: travelling from my hometown to Kathmandu should not be harder to book than travelling back.
-
-</td>
-<td width="42%" valign="top">
+I am a computer science student from **Haripur, Nepal**, currently studying at **Lovely Professional University, Punjab**. I enjoy turning rough ideas into working systems, but the bigger shift in my journey has been learning to build around problems I have actually experienced.
 
 ```yaml
 name: Dipesh Chaudhary
-origin: Haripur, Nepal
-currently: Punjab, India
-studying: Computer Science
-mode: founder × engineer
-status: still becoming
+from: Haripur, Nepal
+currently_in: Punjab, India
+education: B.Tech in Computer Science
+working_on:
+  - Shuvmarg — intercity bus infrastructure for Nepal
+  - Disha — AI-assisted visual explanation
+interests:
+  - product engineering
+  - distributed and offline-first systems
+  - AI tools
+  - developer experience
+current_lesson: depth matters more than novelty
 ```
 
-</td>
-</tr>
-</table>
+## The journey
 
-## The route, not just the result
+```console
+$ git log --reverse --format=journey
 
-![From curiosity to conviction](assets/journey.svg)
+2022  initial commit
+      Started learning how software is put together.
 
-<div align="center">
-<sub>The side roads were not failures. They taught me what the main road should become.</sub>
-</div>
+2023  curiosity/*
+      Built small tools, college projects and whatever felt interesting.
 
-<br>
+2024  experiments/*
+      Portfolios, marketplaces, automation and product ideas.
+      Learned that starting is much easier than sustaining.
 
-## Current chapter
+2025  products/*
+      Began thinking beyond features: users, trust, operations and outcomes.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+2026  shuvmarg/
+      A missing bus-booking option from my hometown became a problem
+      I could no longer treat as somebody else's responsibility.
 
-### 🚌 Shuvmarg
+HEAD  still-becoming
+      Building fewer things. Asking better questions. Going deeper.
+```
 
-**A digital operating layer for intercity bus travel in Nepal.**
+> The unfinished repositories are not hidden. They are the evidence of how my thinking changed.
 
-Passenger booking is only the visible surface. Underneath it are operators, routes, stops, fleets, seat maps, payments, unreliable connectivity and trust.
-
-`transport` `systems` `Nepal` `founder-mode`
-
-[Passenger ↗](https://github.com/Dipesh600/shuvmarg_passenger_web) · [Backend ↗](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend) · [Agent ↗](https://github.com/Dipesh600/shuvmarg_agent_web)
-
-</td>
-<td width="50%" valign="top">
-
-### ✦ Disha
-
-**Turning rough ideas into directed visual explanations.**
-
-An AI-assisted whiteboard animation system for scripting, scene direction, narration, visual planning and fast rendering.
-
-`AI` `education` `visual storytelling` `OpenAI`
-
-[Enter the project ↗](https://github.com/Dipesh600/Disha)
-
-</td>
-</tr>
-</table>
-
-## Repository archaeology
+## What I am building now
 
 <table>
-<tr>
-<td align="center"><b>ORIGINS</b><br><sub>Code became a material</sub></td>
-<td align="center"><b>EXPERIMENTS</b><br><sub>Possibility became addictive</sub></td>
-<td align="center"><b>TURNING POINTS</b><br><sub>Outcomes began to matter</sub></td>
-<td align="center"><b>CURRENT BETS</b><br><sub>Problems became personal</sub></td>
-</tr>
-<tr>
-<td valign="top">
-
-[CT-Link](https://github.com/Dipesh600/CT-Link)<br>
-[Projects Made Easy](https://github.com/Dipesh600/Projects-made-Easy)<br>
-[Remote Desk](https://github.com/Dipesh600/RemoteDeskDeveloper)
-
-</td>
-<td valign="top">
-
-[ProjectVerse](https://github.com/Dipesh600/projectVerse)<br>
-[Zunotto](https://github.com/Dipesh600/zunotto)<br>
-[Setu](https://github.com/Dipesh600/setu)
-
-</td>
-<td valign="top">
-
-[eSewa MCP](https://github.com/Dipesh600/esewa-mcp-server)<br>
-[AI Audio Dubber](https://github.com/Dipesh600/Ai-Audio-dubber)<br>
-[Video Generator](https://github.com/Dipesh600/typographic-video-generator)
-
-</td>
-<td valign="top">
-
-[Shuvmarg](https://github.com/Dipesh600/shuvmarg_passenger_web)<br>
-[Disha](https://github.com/Dipesh600/Disha)<br>
-[Partner App](https://github.com/Dipesh600/shuvmarg-partner-app)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 Shuvmarg</h3>
+      <p><b>Making intercity bus travel in Nepal easier to discover, book and operate.</b></p>
+      <p>The passenger website is only one surface. The larger system includes operators, agents, fleets, schedules, routes, stops, seat maps, payments and unreliable connectivity.</p>
+      <p>
+        <a href="https://github.com/Dipesh600/shuvmarg_passenger_web">Passenger</a> ·
+        <a href="https://github.com/Dipesh600/shuvmarg_agent_web">Agent</a> ·
+        <a href="https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend">Backend</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Disha</h3>
+      <p><b>Turning an idea or recording into a directed visual explanation.</b></p>
+      <p>An AI-assisted whiteboard-animation pipeline combining scripting, narration, scene planning, visual direction and fast rendering.</p>
+      <p><a href="https://github.com/Dipesh600/Disha">View Disha</a></p>
+    </td>
+  </tr>
 </table>
+
+## Selected experiments
+
+| Repository | What I was exploring |
+| :--- | :--- |
+| [eSewa MCP Server](https://github.com/Dipesh600/esewa-mcp-server) | Connecting Nepal's payment ecosystem with agentic tools |
+| [ProjectVerse](https://github.com/Dipesh600/projectVerse) | A student and mentor project marketplace |
+| [Zunotto](https://github.com/Dipesh600/zunotto) | Marketplace workflows, escrow and creator collaboration |
+| [Setu](https://github.com/Dipesh600/setu) | Multi-sided product design for creators, editors and brands |
+| [AI Audio Dubber](https://github.com/Dipesh600/Ai-Audio-dubber) | Automated multilingual media workflows |
+| [Typographic Video Generator](https://github.com/Dipesh600/typographic-video-generator) | Programmatic storytelling and video rendering |
 
 <details>
-<summary><b>Why keep the unfinished work visible?</b></summary>
-<br>
+<summary><b>Why experiments, not “featured projects”?</b></summary>
+<br />
 
-A polished portfolio erases uncertainty. I would rather preserve it.
-
-Some repositories became products. Some became lessons. Some only proved that an idea was less interesting after it met reality. Together, they show the change from **collecting projects** to **building conviction**.
+Some became serious products. Some were abandoned. Some taught me more through their limitations than through their final output. I keep them visible because the route is more honest than a perfectly edited destination.
 
 </details>
 
-## Live telemetry
+## The stack I reach for
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,mongodb,python,kotlin,android,supabase,git,github,docker&theme=dark&perline=14" alt="Technology stack" />
+</p>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipesh600&bg_color=091A2A&color=F3D6A4&line=EB7A42&point=78C4DE&area=true&area_color=193B54&hide_border=true&custom_title=THE%20WORK%20LEAVES%20A%20TRAIL" alt="Dipesh's contribution graph"/>
+<p align="center">
+  <sub>Tools change with the problem. These are simply the materials I currently know best.</sub>
+</p>
 
-<img height="175" src="https://streak-stats.demolab.com?user=Dipesh600&hide_border=true&background=091A2A&ring=EB7A42&fire=EB7A42&currStreakLabel=F3D6A4&sideLabels=C9D4DA&dates=78909B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+## Beyond repositories
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Community</h3>
+      <p>I have helped organize <b>Macbease</b> and worked with the <b>Coding Club at LPU</b>, a community with more than 1,000 registered students.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>How I like to work</h3>
+      <p>Start close to the real problem, challenge the first system design, prototype enough to expose uncertainty, and then simplify aggressively.</p>
+    </td>
+  </tr>
+</table>
 
-## Materials I currently shape
+## The work leaves a trail
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipesh600&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" width="98%" alt="Dipesh's contribution activity graph" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,mongodb,python,kotlin,android,supabase,git&theme=dark&perline=12" alt="Current technology stack"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dipesh600&theme=github-dark-blue&hide_border=true" height="175" alt="Dipesh's contribution streak" />
+</p>
 
-<br><br>
+## Recent activity
 
-<sub>Tools change. The instinct to understand systems stays.</sub>
+<!--START_SECTION:activity-->
+The automatic activity feed will appear here after the included workflow runs.
+<!--END_SECTION:activity-->
 
-</div>
-
-## Present tense
+## Right now
 
 ```diff
 - collecting projects
@@ -160,13 +156,11 @@ Some repositories became products. Some became lessons. Some only proved that an
 - asking what technology can do
 + asking which problems deserve it
 
+! designing Shuvmarg around Nepal's operational reality
+! building Disha for the OpenAI hackathon
 ! learning to choose depth over novelty
-! building transport infrastructure outside the comfort of a demo
-! leaving enough evidence for the next version of me
 ```
 
-<div align="center">
-
-![The next release has not been committed yet](assets/footer.svg)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer&text=The%20next%20commit%20is%20still%20being%20written.&fontSize=16&fontColor=c9d1d9&animation=fadeIn" width="100%" alt="The next commit is still being written" />
+</p>

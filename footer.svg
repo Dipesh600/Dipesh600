@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="The next release has not been committed yet">
+  <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#071723"/><stop offset=".5" stop-color="#123247"/><stop offset="1" stop-color="#071723"/></linearGradient></defs>
+  <rect x="10" y="15" width="980" height="120" rx="22" fill="url(#b)" stroke="#668999" stroke-opacity=".25"/>
+  <g font-family="ui-monospace, SFMono-Regular, monospace" text-anchor="middle">
+    <text x="500" y="58" fill="#7896A4" font-size="12" letter-spacing="4">NEXT RELEASE</text>
+    <text x="500" y="88" fill="#FFF0D5" font-size="20">not committed yet<span fill="#E9793E">_</span></text>
+    <text x="500" y="113" fill="#7896A4" font-size="11">The map stays open.</text>
+  </g>
+</svg>

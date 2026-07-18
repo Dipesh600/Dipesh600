@@ -14,7 +14,13 @@
   <b>Product Engineer · Co-founder of Shuvmarg · Computer Science Undergraduate</b>
 </p>
 
-[![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dipesh600&theme=github-dark-dimmed&custom_title=Dipesh%20Chaudhary%20%E2%80%94%20Contribution%20Activity&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="./output/snake-arena.gif" width="100%" alt="Autonomous multi-snake arena: collect rewards, grow and reset after collisions" />
+</p>
+
+<p align="center">
+  <sub>Three autonomous players · real reward collection · body growth · collision detection · score reset · infinite loop</sub>
+</p>
 
 ```yaml
 name: Dipesh Chaudhary
@@ -46,35 +52,52 @@ community:
 
 ## Featured work
 
-<p align="center">
-  <a href="https://github.com/Dipesh600/shuvmarg_passenger_web">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dipesh600&repo=shuvmarg_passenger_web&theme=github_dark&hide_border=true&description_lines_count=2" alt="Shuvmarg passenger application" />
-  </a>
-  <a href="https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dipesh600&repo=Shuvmarg-bus-booking-platform-backend&theme=github_dark&hide_border=true&description_lines_count=2" alt="Shuvmarg backend" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <sub><b>01 / TRANSPORTATION TECHNOLOGY</b></sub>
+      <h2>Shuvmarg</h2>
+      <p><b>A multi-sided operating platform for intercity bus travel in Nepal.</b></p>
+      <p>Shuvmarg connects the passenger booking experience with the operational systems behind it: agents, bus operators, fleets, schedules, routes, stops, seat maps, payments, cancellations and field operations.</p>
+      <p>My work covers product definition, system architecture and engineering across the platform—from modelling Nepal's real transport network to designing reliable workflows for environments with inconsistent connectivity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb" alt="MongoDB" />
+      </p>
+      <p><a href="https://github.com/Dipesh600/shuvmarg_passenger_web"><b>Passenger application ↗</b></a> · <a href="https://github.com/Dipesh600/shuvmarg_agent_web"><b>Agent application ↗</b></a> · <a href="https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend"><b>Backend ↗</b></a></p>
+      <table>
+        <tr>
+          <td width="33%"><b>Role</b><br /><sub>Co-founder · Product and Engineering</sub></td>
+          <td width="33%"><b>Stage</b><br /><sub>Active development</sub></td>
+          <td width="34%"><b>Focus</b><br /><sub>Product systems · Transport operations · Offline-first architecture</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Dipesh600/Disha">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dipesh600&repo=Disha&theme=github_dark&hide_border=true&description_lines_count=2" alt="Disha" />
-  </a>
-  <a href="https://github.com/Dipesh600/esewa-mcp-server">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dipesh600&repo=esewa-mcp-server&theme=github_dark&hide_border=true&description_lines_count=2" alt="eSewa MCP Server" />
-  </a>
-</p>
-
-### Shuvmarg
-
-Shuvmarg is a multi-sided platform for intercity bus travel in Nepal. I work across product definition and system architecture: passenger booking, operator and agent workflows, fleet and schedule management, route and stop modelling, seat maps, payments, refunds and offline-first field operations.
-
-### Disha
-
-Disha is an AI-assisted whiteboard-animation system being developed for the OpenAI hackathon. It separates video creation into scripting, narration, scene planning, visual direction, timing and rendering to produce consistent educational explanations faster.
-
-### eSewa MCP Server
-
-An open-source Model Context Protocol server exploring how Nepal-specific payment services can be exposed to AI agents and MCP-compatible development environments through reusable interfaces.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>02 / APPLIED AI</b></sub>
+      <h3>Disha</h3>
+      <p><b>AI-assisted visual explanation and whiteboard-animation pipeline.</b></p>
+      <p>Disha turns an idea or recording into a structured visual story by coordinating scripting, narration, scene planning, visual direction, timing and rendering. The current work focuses on improving consistency while avoiding the slow SVG-heavy rendering approach used in earlier prototypes.</p>
+      <p><img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai" alt="OpenAI" /> <img src="https://img.shields.io/badge/Media_pipeline-0D1117?style=flat-square" alt="Media pipeline" /></p>
+      <p><a href="https://github.com/Dipesh600/Disha"><b>View project ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>03 / DEVELOPER TOOLING</b></sub>
+      <h3>eSewa MCP Server</h3>
+      <p><b>Connecting Nepal-specific payment services with agentic software.</b></p>
+      <p>An open-source Model Context Protocol server that exposes eSewa payment capabilities to AI agents and MCP-compatible development environments through reusable interfaces.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/Open_source-0D1117?style=flat-square&logo=github" alt="Open source" /></p>
+      <p><a href="https://github.com/Dipesh600/esewa-mcp-server"><b>View project ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Technical background
 
@@ -116,6 +139,24 @@ An open-source Model Context Protocol server exploring how Nepal-specific paymen
 1. 🎉 Merged PR [#12](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend/pull/12) in [Dipesh600/Shuvmarg-bus-booking-platform-backend](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend)
 <!--END_SECTION:activity-->
 
+---
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h2>Building useful systems.</h2>
+      <p>I am interested in product engineering work that connects software with real operational problems—especially transportation, digital infrastructure, developer tooling and applied AI.</p>
+      <p><b>Currently:</b> building Shuvmarg and developing Disha for the OpenAI hackathon.</p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>Connect</h3>
+      <p><a href="mailto:dipesh@shuvmarg.com"><b>dipesh@shuvmarg.com</b></a></p>
+      <p><a href="https://github.com/Dipesh600">GitHub profile ↗</a><br />
+      <a href="https://github.com/Dipesh600?tab=repositories">All repositories ↗</a></p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%" alt="Footer" />
+  <img src="https://img.shields.io/badge/Dipesh_Chaudhary-Product_Engineer-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Dipesh Chaudhary — Product Engineer" />
 </p>

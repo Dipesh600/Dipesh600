@@ -136,7 +136,7 @@ community:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend/pull/101) in [Dipesh600/Shuvmarg-bus-booking-platform-backend](https://github.com/Dipesh600/Shuvmarg-bus-booking-platform-backend)
+1. 🎉 Merged PR [#13](https://github.com/Dipesh600/shuvmarg_passenger_web/pull/13) in [Dipesh600/shuvmarg_passenger_web](https://github.com/Dipesh600/shuvmarg_passenger_web)
 <!--END_SECTION:activity-->
 
 ---

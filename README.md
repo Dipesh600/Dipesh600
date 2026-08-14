@@ -136,7 +136,7 @@ community:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Dipesh600/shuvmarg_busOwner_web/pull/10) in [Dipesh600/shuvmarg_busOwner_web](https://github.com/Dipesh600/shuvmarg_busOwner_web)
+1. 🎉 Merged PR [#15](https://github.com/Dipesh600/shuvmarg-super-admin/pull/15) in [Dipesh600/shuvmarg-super-admin](https://github.com/Dipesh600/shuvmarg-super-admin)
 <!--END_SECTION:activity-->
 
 ---

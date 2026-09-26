@@ -136,7 +136,7 @@ community:
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/Dipesh600/shuvmarg_passenger_web/pull/40) in [Dipesh600/shuvmarg_passenger_web](https://github.com/Dipesh600/shuvmarg_passenger_web)
+1. ❗ Opened issue [#40](https://github.com/sparshrestha/tech-in-nepal/issues/40) in [sparshrestha/tech-in-nepal](https://github.com/sparshrestha/tech-in-nepal)
 <!--END_SECTION:activity-->
 
 ---
